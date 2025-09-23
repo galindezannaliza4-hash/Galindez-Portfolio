@@ -9,7 +9,7 @@ I'm a passionate web developer who loves editing video,  making a cinematic film
 * Contacts
 
 # Live Site
- https://callejojaffraine-ops.github.io/Callejo-portfolio/
+(https://galindezannaliza4-hash.github.io/Galindez-Portfolio/)
 
 # Technologies Used
 * Visual Studio Code
@@ -17,8 +17,8 @@ I'm a passionate web developer who loves editing video,  making a cinematic film
 * Github
 
 # Contact Me
-* callejojaffraine@gmail.com
-* 09161461027
+* galindezannaliza4@gmail.com
+* 09388874071
 
 # Reflection
 # Challenges Faced and Solutions
