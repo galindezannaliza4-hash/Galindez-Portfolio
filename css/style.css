@@ -275,14 +275,17 @@ footer {
   height: 100%;
   background-color: rgba(5, 5, 10, 0.9);
   backdrop-filter: blur(8px);
+  overflow: auto; /* Enable scroll if content is taller than screen */
 }
 
 .modal-content {
   background-color: #111122;
-  margin: 10% auto;
+  margin: 5% auto;
   padding: 20px;
   border-radius: 12px;
   max-width: 600px;
+  max-height: 80vh; /* Prevent content from overflowing */
+  overflow-y: auto; /* Scroll inside modal */
   color: #fff;
   text-align: center;
   position: relative;
@@ -311,6 +314,7 @@ footer {
 .close-btn:hover {
   color: #3f00ff;
 }
+
 
 /* Animations */
 @keyframes fadeInUp {
@@ -343,3 +347,4 @@ footer {
     gap: 1rem;
   }
 }
+
